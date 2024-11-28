@@ -6,7 +6,7 @@ Row Health is a X company that does X...
 
 Now that they have hired a data team they would like to explore X...
 
-The entity relationship diagram can be found here. 
+The entity relationship diagram can be found [here](https://github.com/madeleinevarda/RowHealth_analysis/blob/main/ERD.png). 
 
 # Insights Summary
 
