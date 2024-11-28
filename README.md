@@ -24,6 +24,12 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 # Reccomendations 
 
+## Signup Rate 
+
+## Click Through 
+
+## Cost per Signup
+
 # Dashboard
 
 The dashboard can be found in Tableau Public here. This dashboard enables users to filter by X, X, and X and focuses on trends in X,X, and X. 
