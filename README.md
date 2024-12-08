@@ -19,19 +19,14 @@ In order to evaluate campaign performance, we focused on the following key metri
 * **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 
 
-## Click Through  
+## Click Through and Cost per Click 
 
-## Signup Rate 
+## Signup Rate and Cost
 
-* The Health Awareness Campaign was most successful in terms of overall signups (3,727). It consisted of two initiatives, "Healthy Living" with a 3.72% signup rate and 3,279 signups, and Product Promotion inititiative with a 0.82% signup rate and 266 signups. 
-*
-*
-* More resources should be strategically allocated to this successful campaign.
-* Golden Years Program Concerns: This campaign is performing extremely poorly with a near-zero 0.01% signup rate, only 23 signups, and the highest cost at 124.1. The program either needs immediate radical restructuring or should be completely eliminated due to its ineffectiveness.
-* Post-Pandemic Health Consciousness: Compare Health Coverage and Healthy Living campaigns dominate post-pandemic signup metrics, suggesting a potential shift in public attitude where people are more consciously caring about their health following the global COVID-19 pandemic.
-* Seasonality Impact: Almost all campaigns experienced a significant signup spike in April 2020 during the peak of COVID-19, with some campaigns like Tailored Health Plans and Preventative Care Plans showing additional high peaks in subsequent months, potentially correlating with different COVID strains and healthcare concerns.
-
-## Cost per Signup
+* The Health Awareness Campaign was most successful in terms of overall signups (3,727), with the "Healthy Living" initiative driving this success through its impressive 3.72% signup rate and 3,279 signups. The campaign also included a "Product Promotion" initiative, which had a notably lower signup rate of 0.82% and 266 signups.  
+* Golden Years Security campaign is performing extremely poorly with a near-zero (0.01%) signup rate, only 23 signups, and the highest cost per signup at $124. The second highest cost per signup is 61% lower.
+* While the overall Healthy Living campaign shows promise with a high 28% signup rate, its inititatives reveal significant variability. The Policy Information inititatives has a modest 0.46% signup rate, Health Tips at 0.22%, and most notably, the Offer Announcement has 0 signups despite 281,960 impressions. 
+* Almost all campaigns experienced a significant signup spike in April 2020 during the peak of COVID-19, with some campaigns like Tailored Health Plans and Preventative Care Plans showing additional high peaks in subsequent months, potentially correlating with different COVID strains and healthcare concerns.
 
 ## Claims Rate 
 
@@ -40,6 +35,9 @@ In order to evaluate campaign performance, we focused on the following key metri
 ## Click Through 
 
 ## Signup Rate 
+
+* Golden Years Security needs immediate radical restructuring or should be completely eliminated due to its ineffectiveness.
+* The Healthy Living campaign needs a deep-dive analysis into why some inititatives, most notably Offer Announement, are drastically underperforming and potentially require complete redesign or discontinuation.
 
 ## Cost per Signup
 
