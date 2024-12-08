@@ -19,7 +19,11 @@ In order to evaluate campaign performance, we focused on the following key metri
 * **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 
 
-## Click Through and Cost per Click 
+## Click Through Rate and Cost per Click 
+
+* Golden Years Security demonstrates poor performance with the highest Cost Per Click (CPC) at $0.48 and lowest Click-Through Rate (CTR) at 1.72%, especially when compared to Health for All, which achieved a remarkable 36% CTR and $0.05 CPC with significantly fewer impressions (120,492 vs. 348,510).
+* The Healthy Living and Tailored Health Plans campaigns have nearly identical total impressions (Healthy Living at 1,372 and Tailored Health Plans at 1,398), but show notable differences in performance. Healthy Living has a higher CTR (9.62% vs. 6.62%) and slightly lower CPC ($0.05 vs. $0.06). Additionally, Healthy Living offers more diverse campaigns across 17 claim categories, compared to Golden Years Security's limited 6 categories, indicating a more comprehensive and potentially more appealing approach.
+* The Summer Wellness Tip campaign stands out with the second-highest CTR at 17.01% and the lowest CPC at $0.02, making it a strong candidate for continued investment and potential expansion. Its efficient performance suggests it has found an effective way to engage the target audience with minimal cost.
 
 ## Signup Rate and Cost
 
@@ -32,7 +36,9 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 # Reccomendations 
 
-## Click Through 
+## Click Through Rate and Cost per Click 
+
+* Reallocate marketing resources from Golden Years Security to more effective campaigns like Health for All.
 
 ## Signup Rate 
 
