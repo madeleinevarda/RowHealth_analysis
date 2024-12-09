@@ -36,18 +36,9 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 # Reccomendations 
 
-## Click Through Rate and Cost per Click 
-
-* Reallocate marketing resources from Golden Years Security to more effective campaigns like Health for All.
-
-## Signup Rate 
-
+* Reallocate marketing resources from Golden Years Security to more effective campaigns like Health for All
 * Golden Years Security needs immediate radical restructuring or should be completely eliminated due to its ineffectiveness.
 * The Healthy Living campaign needs a deep-dive analysis into why some inititatives, most notably Offer Announement, are drastically underperforming and potentially require complete redesign or discontinuation.
-
-## Cost per Signup
-
-## Claims Rate 
 
 # Dashboard
 
