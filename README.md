@@ -36,18 +36,13 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 # Reccomendations 
 
-* **Overhaul/Discontinue:** Completely overhaul or discontinue the Golden Years Security campaign due to its extremely poor performance, as this campaign is consuming resources without delivering meaningful results. Reallocate its budget to more successful initiatives like the Health Awareness or Summer Wellness Tip campaigns, which demonstrate significantly better engagement and cost-effectiveness.
-* **Investigate:** The Customer Testimonial initiative, part of the Compare Health Coverage campaign, is driving extraordinarily high claim amounts. Conduct a thorough review to understand why these claims are so high.
-* **Expand/Invest More Resouces:**  The Healthy Living campaign needs a deep-dive analysis into why some inititatives, most notably Offer Announement, are drastically underperforming and potentially require complete redesign or discontinuation.
-
-
-  
-Optimize Healthy Living Campaign's Sub-Initiatives While the overall Healthy Living campaign shows promise, its sub-initiatives have widely varying performance. Conduct a deep-dive analysis to understand why the Offer Announcement sub-campaign has zero signups despite 281,960 impressions. Consider completely redesigning or eliminating underperforming sub-initiatives (like Offer Announcement with 0% signup) and double down on successful approaches like the Health Awareness campaign, which achieved a 3.72% signup rate.
-
-
-
-
-
+### **Overhaul/Discontinue:** 
+* Completely overhaul or discontinue the Golden Years Security campaign due to its extremely poor performance, as this campaign is consuming resources without delivering meaningful results. Reallocate its budget to more successful initiatives like the Health Awareness or Summer Wellness Tip campaigns, which demonstrate significantly better engagement and cost-effectiveness.
+### **Investigate:** 
+* The Customer Testimonial initiative, part of the Compare Health Coverage campaign, is driving extraordinarily high claim amounts. Conduct a thorough review to understand why these claims are so high.
+### **Expand/Invest More Resouces:**
+*  Exploit campaigns like Healthy Living and Compare Health Coverage which showed significant engagement during and after pandemic peaks.
+*  Within Health for All campaign, focus on health awareness-type initiatives, and less on product promotion-type initiatives, which had low signup rate and CTR.
 
 # Dashboard
 
