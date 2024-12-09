@@ -10,12 +10,11 @@ The entity relationship diagram can be found [here](https://github.com/madeleine
 
 In order to evaluate campaign performance, we focused on the following key metrics:
 
+* **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 * **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
 * **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
-* **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 
-
-## Click Through Rate and Cost per Click 
+## Click through Rate (CTR) and Cost per Click (CPC) 
 
 * Golden Years Security demonstrates poor performance with the highest Cost Per Click (CPC) at $0.48 and lowest Click-Through Rate (CTR) at 1.72%, especially when compared to Health for All, which achieved a remarkable 36% CTR and $0.05 CPC with significantly fewer impressions (120,492 vs. 348,510).
   
@@ -37,7 +36,7 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 * Compare Health Coverage's campaign's exceptionally high average claim amount of $410 is primarily driven by the Customer Testimonial initiative, which has an astronomical average claim of $499. With total claims reaching $3,902,045, this raises serious questions about the campaign's cost-effectiveness and sustainability. The second-highest average claim amount comes from Preventitive Care News at $271, further highlighting the financial burden of this campaign.
   
-* The Compare Health Coverage campaign experienced dramatic claim amount fluctuations during the pandemic, with significant spikes in August-September 2019 (74% increase) and a peak between April-May 2020 (94.1% claim amount increase).
+* The Compare Health Coverage campaign experienced dramatic claim amount fluctuations during the pandemic, with significant spikes in August-September 2019 (74% increase) and a peak between April-May 2020 (94.1%).
   
 * Notably, glucose monitoring claims dominated pre-pandemic but have since reduced in proportion, while entirely new claim categories like wound care, chemotherapy, CPAP/BiPAP supplies, and hospice care supplies only emerged in 2023, suggesting potential shifts in healthcare coverage or data collection methodologies.
 
