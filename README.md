@@ -18,20 +18,27 @@ In order to evaluate campaign performance, we focused on the following key metri
 ## Click Through Rate and Cost per Click 
 
 * Golden Years Security demonstrates poor performance with the highest Cost Per Click (CPC) at $0.48 and lowest Click-Through Rate (CTR) at 1.72%, especially when compared to Health for All, which achieved a remarkable 36% CTR and $0.05 CPC with significantly fewer impressions (120,492 vs. 348,510).
+  
 * The Healthy Living and Tailored Health Plans campaigns have nearly identical total impressions (Healthy Living at 1,372 and Tailored Health Plans at 1,398), but show notable differences in performance. Healthy Living has a higher CTR (9.62% vs. 6.62%) and slightly lower CPC ($0.05 vs. $0.06). Additionally, Healthy Living offers more diverse campaigns across 17 claim categories, compared to Golden Years Security's limited 6 categories, indicating a more comprehensive and potentially more appealing approach.
+  
 * The Summer Wellness Tip campaign stands out with the second-highest CTR at 17.01% and the lowest CPC at $0.02, making it a strong candidate for continued investment and potential expansion. Its efficient performance suggests it has found an effective way to engage the target audience with minimal cost.
 
 ## Signup Rate and Cost
 
-* The Health Awareness Campaign was most successful in terms of overall signups (3,727), with the "Healthy Living" initiative driving this success through its impressive 3.72% signup rate and 3,279 signups. The campaign also included a "Product Promotion" initiative, which had a notably lower signup rate of 0.82% and 266 signups.  
+* The Health Awareness Campaign was most successful in terms of overall signups (3,727), with the "Healthy Living" initiative driving this success through its impressive 3.72% signup rate and 3,279 signups. The campaign also included a "Product Promotion" initiative, which had a notably lower signup rate of 0.82% and 266 signups.
+    
 * Golden Years Security campaign is performing extremely poorly with a near-zero (0.01%) signup rate, only 23 signups, and the highest cost per signup at $124. The second highest cost per signup is 61% lower.
-* While the overall Healthy Living campaign shows promise with a high 28% signup rate, its inititatives reveal significant variability. The Policy Information inititatives has a modest 0.46% signup rate, Health Tips at 0.22%, and most notably, the Offer Announcement has 0 signups despite 281,960 impressions. 
+  
+* While the overall Healthy Living campaign shows promise with a high 28% signup rate, its inititatives reveal significant variability. The Policy Information inititatives has a modest 0.46% signup rate, Health Tips at 0.22%, and most notably, the Offer Announcement has 0 signups despite 281,960 impressions.
+  
 * Almost all campaigns experienced a significant signup spike in April 2020 during the peak of COVID-19, with some campaigns like Tailored Health Plans and Preventative Care Plans showing additional high peaks in subsequent months, potentially correlating with different COVID strains and healthcare concerns.
 
 ## Claims Rate 
 
 * Compare Health Coverage's campaign's exceptionally high average claim amount of $410 is primarily driven by the Customer Testimonial initiative, which has an astronomical average claim of $499. With total claims reaching $3,902,045, this raises serious questions about the campaign's cost-effectiveness and sustainability. The second-highest average claim amount comes from Preventitive Care News at $271, further highlighting the financial burden of this campaign.
+  
 * The Compare Health Coverage campaign experienced dramatic claim amount fluctuations during the pandemic, with significant spikes in August-September 2019 (74% increase) and a peak between April-May 2020 (94.1% claim amount increase).
+  
 * Notably, glucose monitoring claims dominated pre-pandemic but have since reduced in proportion, while entirely new claim categories like wound care, chemotherapy, CPAP/BiPAP supplies, and hospice care supplies only emerged in 2023, suggesting potential shifts in healthcare coverage or data collection methodologies.
 
 # Reccomendations 
