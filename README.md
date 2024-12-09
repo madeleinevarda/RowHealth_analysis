@@ -6,10 +6,6 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 
 The entity relationship diagram can be found [here](https://github.com/madeleinevarda/RowHealth_analysis/blob/main/ERD.png). 
 
-# Executive Summary
-
-Healthcare campaign performance analysis reveals "Health for All" as the standout program with a 2.94% signup rate, primarily driven by its Health Awareness campaign (3.72% signup rate). Post-pandemic trends show "Compare Health Coverage" and "Healthy Living" campaigns dominating customer acquisition, though "Compare Health Coverage" carries the highest average claim amount ($410) and has accumulated $3.9M in total claims. Significant spikes in both signup and claim metrics correlate with COVID-19 peaks, with April 2020 showing the most dramatic increases across most campaigns. Several underperforming programs, notably "Golden Years" (0.01% signup rate) and "Benefit Updates" (0.02% signup rate), require immediate evaluation or termination, while successful campaigns like "Healthy Living" present opportunities for expansion despite moderate costs per signup.
-
 # Insights Summary
 
 In order to evaluate campaign performance, we focused on the following key metrics:
@@ -34,11 +30,24 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 ## Claims Rate 
 
+* Compare Health Coverage's campaign's exceptionally high average claim amount of $410 is primarily driven by the Customer Testimonial initiative, which has an astronomical average claim of $499. With total claims reaching $3,902,045, this raises serious questions about the campaign's cost-effectiveness and sustainability. The second-highest average claim amount comes from Preventitive Care News at $271, further highlighting the financial burden of this campaign.
+* The Compare Health Coverage campaign experienced dramatic claim amount fluctuations during the pandemic, with significant spikes in August-September 2019 (74% increase) and a peak between April-May 2020 (94.1% claim amount increase).
+* Notably, glucose monitoring claims dominated pre-pandemic but have since reduced in proportion, while entirely new claim categories like wound care, chemotherapy, CPAP/BiPAP supplies, and hospice care supplies only emerged in 2023, suggesting potential shifts in healthcare coverage or data collection methodologies.
+
 # Reccomendations 
 
-* Reallocate marketing resources from Golden Years Security to more effective campaigns like Health for All
-* Golden Years Security needs immediate radical restructuring or should be completely eliminated due to its ineffectiveness.
-* The Healthy Living campaign needs a deep-dive analysis into why some inititatives, most notably Offer Announement, are drastically underperforming and potentially require complete redesign or discontinuation.
+* **Overhaul/Discontinue:** Completely overhaul or discontinue the Golden Years Security campaign due to its extremely poor performance, as this campaign is consuming resources without delivering meaningful results. Reallocate its budget to more successful initiatives like the Health Awareness or Summer Wellness Tip campaigns, which demonstrate significantly better engagement and cost-effectiveness.
+* **Investigate:** The Customer Testimonial initiative, part of the Compare Health Coverage campaign, is driving extraordinarily high claim amounts. Conduct a thorough review to understand why these claims are so high.
+* **Expand/Invest More Resouces:**  The Healthy Living campaign needs a deep-dive analysis into why some inititatives, most notably Offer Announement, are drastically underperforming and potentially require complete redesign or discontinuation.
+
+
+  
+Optimize Healthy Living Campaign's Sub-Initiatives While the overall Healthy Living campaign shows promise, its sub-initiatives have widely varying performance. Conduct a deep-dive analysis to understand why the Offer Announcement sub-campaign has zero signups despite 281,960 impressions. Consider completely redesigning or eliminating underperforming sub-initiatives (like Offer Announcement with 0% signup) and double down on successful approaches like the Health Awareness campaign, which achieved a 3.72% signup rate.
+
+
+
+
+
 
 # Dashboard
 
