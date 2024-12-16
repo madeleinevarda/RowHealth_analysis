@@ -4,7 +4,11 @@ Founded in 2016, Row Health is a medical insurance company serving thousands of 
 
 Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims.
 
-The entity relationship diagram can be found [here](https://github.com/madeleinevarda/RowHealth_analysis/blob/main/ERD.png). 
+The entity relationship diagram can be found [here](https://github.com/madeleinevarda/RowHealth_analysis/blob/main/ERD.png).
+
+The Tableau Dashboard can be found [here].
+
+The full presentation can be found [here].
 
 # Insights Summary
 
@@ -50,7 +54,7 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 # Dashboard
 
-The dashboard can be found in Tableau Public here. This dashboard enables users to filter by X, X, and X and focuses on trends in X,X, and X. 
+This dashboard enables users to filter by plan, state, and campaign type and focuses on trends and values in marketing, signup, and claim metrics.
 
 # Presentation Sample
 
