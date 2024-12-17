@@ -56,7 +56,7 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 This dashboard enables users to filter by plan, state, and campaign type and focuses on trends and values in marketing, signup, and claim metrics.
 
-![Dashboard](https://github.com/user-attachments/assets/a6c7d17f-30a4-44d4-83b8-5bfd8e1ef0cd)
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/4c4f128a-d518-4191-8258-d62816dca381)
 
 # Presentation Sample
 
