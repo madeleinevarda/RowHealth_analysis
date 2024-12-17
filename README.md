@@ -6,7 +6,7 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 
 The entity relationship diagram can be found [here](https://github.com/madeleinevarda/RowHealth_analysis/blob/main/ERD.png).
 
-The Tableau Dashboard can be found [here].
+The Tableau Dashboard can be found [here](https://public.tableau.com/views/rowhealth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 The full presentation can be found [here].
 
@@ -55,6 +55,8 @@ In order to evaluate campaign performance, we focused on the following key metri
 # Dashboard
 
 This dashboard enables users to filter by plan, state, and campaign type and focuses on trends and values in marketing, signup, and claim metrics.
+
+![Dashboard](https://github.com/user-attachments/assets/a6c7d17f-30a4-44d4-83b8-5bfd8e1ef0cd)
 
 # Presentation Sample
 
