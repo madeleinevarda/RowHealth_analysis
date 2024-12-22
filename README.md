@@ -8,8 +8,6 @@ The entity relationship diagram can be found [here](https://github.com/madeleine
 
 The Tableau Dashboard can be found [here](https://public.tableau.com/views/rowhealth/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-The full presentation can be found [here].
-
 # Insights Summary
 
 In order to evaluate campaign performance, we focused on the following key metrics:
