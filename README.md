@@ -20,7 +20,9 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 * Golden Years Security demonstrates poor performance with the highest Cost Per Click (CPC) at $0.48 and lowest Click-Through Rate (CTR) at 1.72%, especially when compared to Health for All, which achieved a remarkable 36% CTR and $0.05 CPC with significantly fewer impressions (120,492 vs. 348,510).
   
-* The Healthy Living and Tailored Health Plans campaigns have nearly identical total impressions (Healthy Living at 1,372 and Tailored Health Plans at 1,398), but show notable differences in performance. Healthy Living has a higher CTR (9.62% vs. 6.62%) and slightly lower CPC ($0.05 vs. $0.06). Additionally, Healthy Living offers more diverse campaigns across 17 claim categories, compared to Golden Years Security's limited 6 categories, indicating a more comprehensive and potentially more appealing approach.
+* The Healthy Living and Tailored Health Plans campaigns have nearly identical total impressions (Healthy Living at 1,372 and Tailored Health Plans at 1,398), but show notable differences in performance. Healthy Living has a higher CTR (9.62% vs. 6.62%) and slightly lower CPC ($0.05 vs. $0.06).
+  
+* Additionally, Healthy Living offers more diverse campaigns across 17 claim categories, compared to Golden Years Security's limited 6 categories, indicating a more comprehensive and potentially more appealing approach.
   
 * The Summer Wellness Tip campaign stands out with the second-highest CTR at 17.01% and the lowest CPC at $0.02, making it a strong candidate for continued investment and potential expansion. Its efficient performance suggests it has found an effective way to engage the target audience with minimal cost.
 
@@ -36,7 +38,7 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 ## Claims Rate 
 
-* Compare Health Coverage's campaign's exceptionally high average claim amount of $410 is primarily driven by the Customer Testimonial initiative, which has an astronomical average claim of $499. With total claims reaching $3,902,045, this raises serious questions about the campaign's cost-effectiveness and sustainability. The second-highest average claim amount comes from Preventitive Care News at $271, further highlighting the financial burden of this campaign.
+* Compare Health Coverage's campaign's exceptionally high average claim amount of $410 is primarily driven by the Customer Testimonial initiative, which has an astronomical average claim of $499. With total claims reaching $3,902,045, this raises serious questions about the campaign's cost-effectiveness and sustainability.
   
 * The Compare Health Coverage campaign experienced dramatic claim amount fluctuations during the pandemic, with significant spikes in August-September 2019 (74% increase) and a peak between April-May 2020 (94.1%).
   
