@@ -44,7 +44,7 @@ In order to evaluate campaign performance, we focused on the following key metri
   
 * Notably, glucose monitoring claims dominated pre-pandemic but have since reduced in proportion, while entirely new claim categories like wound care, chemotherapy, CPAP/BiPAP supplies, and hospice care supplies only emerged in 2023, suggesting potential shifts in healthcare coverage or data collection methodologies.
 
-# Reccomendations 
+# Recommendations 
 
 * **Overhaul/Discontinue:** Completely overhaul or discontinue the Golden Years Security campaign due to its extremely poor performance, as this campaign is consuming resources without delivering meaningful results. Reallocate its budget to more successful initiatives like the Health Awareness or Summer Wellness Tip campaigns, which demonstrate significantly better engagement and cost-effectiveness.
   
